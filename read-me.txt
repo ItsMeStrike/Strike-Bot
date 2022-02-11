@@ -1,0 +1,3 @@
+To start the bot please download PostgreSQL and once that is done start PGadmin4 and create a new database called levels_db then using notepad open run_settings.json and put
+the password that you set up for PGadmin4 in the thing where it says "postgresql_password": "put password here" then from their create a bot on discord google it if you dont know how and put the
+token where it says "bot_token": "put token here" 
